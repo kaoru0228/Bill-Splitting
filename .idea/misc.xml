@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kaoru/AndroidStudioProjects/Task03_1_z3033034/app/src/main/res/layout/activity_addmember.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kaoru/AndroidStudioProjects/Task03_1_z3033034/app/src/main/res/layout/activity_addpayment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kaoru/AndroidStudioProjects/Task03_1_z3033034/app/src/main/res/layout/activity_event.xml" value="0.264" />
+        <entry key="..\:/Users/kaoru/AndroidStudioProjects/Task03_1_z3033034/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/kaoru/AndroidStudioProjects/Task03_1_z3033034/app/src/main/res/layout/activity_member.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kaoru/AndroidStudioProjects/Task03_1_z3033034/app/src/main/res/layout/activity_member_individual.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kaoru/AndroidStudioProjects/Task03_1_z3033034/app/src/main/res/layout/popup_add_event.xml" value="0.176" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
