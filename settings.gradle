@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Task03_1_z3033034"
+rootProject.name = "Bill_Splitting"
 include ':app'
